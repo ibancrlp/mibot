@@ -1,0 +1,6 @@
+
+<context>
+  <input pattern="(hola|buenas|profe) *">
+    <output value="Saludos mortales:: soy el bot al servicio de ibancrlp"/>
+  </input>
+</context>
